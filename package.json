@@ -1,0 +1,38 @@
+{
+  "name": "react-native-wrap-datepicker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "rnpm": {
+    "assets": [
+      "Fonts"
+    ]
+  },
+   "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "datepicker",
+
+  ],
+  "author": {
+    "name": "Sungil Kang",
+    "email": "helpkang@gmail.com"
+  },
+  "homepage": "https://github.com/helpkang/react-native-wrap-datepicker",
+  "bugs": {
+    "url": "https://github.com/helpkang/react-native-wrap-datepicker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/helpkang/react-native-wrap-datepicker.git"
+  },
+  "license": "MIT"
+}
