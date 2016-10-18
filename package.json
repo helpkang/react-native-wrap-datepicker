@@ -2,14 +2,6 @@
   "name": "react-native-wrap-datepicker",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start"
-  },
-  "rnpm": {
-    "assets": [
-      "Fonts"
-    ]
-  },
    "keywords": [
     "react-native",
     "react-component",
@@ -19,8 +11,7 @@
     "ios",
     "android",
     "ui",
-    "datepicker",
-
+    "datepicker"
   ],
   "author": {
     "name": "Sungil Kang",
